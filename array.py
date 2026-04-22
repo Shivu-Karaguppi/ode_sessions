@@ -4,11 +4,17 @@
 # duplicates
 #diff datatypes
 
+# sets?
+#orderd
+# mutable
+# No - duplicates
+
+#diff datatypes
 
 # print(arr)
 
 # access
-
+arr = [1,32,344,6,78,8]
 # print(arr[5])
 
 # slicing
@@ -57,3 +63,5 @@ a = [[2] * 3] * 3
 # a[0][0] = 1
 
 print(a)
+
+#checking
