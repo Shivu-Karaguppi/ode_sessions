@@ -1,0 +1,28 @@
+1.WAQTD NUMBER OF EMPLOYEES GETTING SALARY LESS 
+THAN 2000 IN DEPTNO 10.
+2.WAQTD TOTAL SALARY NEEDED TO PAY EMPLOYEES 
+WORKING AS CLERK.
+3.WAQTD AVG SAL , TOTAL SAL , NUMBER OF EMPS AND 
+MAXIMUM SALARY GIVEN TO EMPLOYEES WORKING AS 
+PERSIDENT.
+4.WAQTD NUMBER OF EMPS AND TOTAL SALARY NEEDED 
+TO PAY THE EMPLOYEES WHO HAVE 2 CONSICUTIVE L's IN 
+THEIR NAMES.
+5.WAQTD NUMBER OF DISTINCT SALARIES PRESENT IN 
+EMPLOYEE TABLE.
+6.List employees whose name having 4 characters.
+7.List the employees whose job is having last 3 characters as 'man'.
+8.Display all the names whose name is having exactly 1 'L'.
+9.Display the result from emp table as below.
+'SMITH is a CLERK and gets salary 2000' 
+Here SMITH is ename column, CLERK is JOB and 2000 is SAL column and rest everything is literal 
+strings.
+10.list the employees hired on a leap year.
+11.WAQTD ENAMES OF THE EMPLOYEES WHO EARN SALARY IN MULTIPLES OF 3.
+12.WAQTD DETAILS OF THE EMPLOYEE WHO HAVE ODD eid.
+13.WAQTD NAMES OF THE EMPLOYEES IF THEY HAVE CHAR 'A' EXACTLY TWICE
+14.WAQTD NAMES OF THE EMPLOYEES IF THEY HAVE CHAR 'A' PRESENT ATLEAST THRICE IN 
+THEIR NAMES.
+15.WAQTD to count number of time 'A' is present in 'MALAYALAM'
+16.WAQTD to display first half of employee names.
+17.WAQDT all the details whose name is start and end with same character.
