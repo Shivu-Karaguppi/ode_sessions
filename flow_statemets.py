@@ -3,6 +3,8 @@
 # # age = 15
 # # if age < 18 :
 # #     print("No licen")
+# elif condition:
+        # print
 # # else :
 # #     print(" eligible to drive")
 
@@ -30,3 +32,5 @@ n = int(n)
 for i in range(n):
     if i%2 == 0:
         print(i)
+
+#status
