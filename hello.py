@@ -24,3 +24,6 @@ print('a' not in 'apple')
 #requriment -->
 
 #backend -->
+
+
+#show sample

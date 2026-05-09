@@ -33,3 +33,5 @@ def even(n):
     
 x = list(map(even, arr))
 print(x)
+
+#show samples
